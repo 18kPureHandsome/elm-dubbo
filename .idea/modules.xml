@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elm-api/elm-api.iml" filepath="$PROJECT_DIR$/elm-api/elm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-consumer/elm-api (1).iml" filepath="$PROJECT_DIR$/elm-consumer/elm-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-consumer/elm-api (1) (com.xtw.consumer).iml" filepath="$PROJECT_DIR$/elm-consumer/elm-api (1) (com.xtw.consumer).iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-consumer/elm-consumer.iml" filepath="$PROJECT_DIR$/elm-consumer/elm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-dubbo.iml" filepath="$PROJECT_DIR$/elm-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-provider/elm-provider.iml" filepath="$PROJECT_DIR$/elm-provider/elm-provider.iml" />
+    </modules>
+  </component>
+</project>
